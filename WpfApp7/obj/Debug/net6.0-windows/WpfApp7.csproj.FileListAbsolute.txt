@@ -21,3 +21,5 @@ C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WpfApp
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\ref\WpfApp7.dll
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowUniform.g.cs
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowUniform.baml
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowGrid.g.cs
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowGrid.baml
