@@ -29,3 +29,5 @@ C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\Window
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowWrap.baml
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowKartkowka.g.cs
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowKartkowka.baml
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowBindowanie.g.cs
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowBindowanie.baml
