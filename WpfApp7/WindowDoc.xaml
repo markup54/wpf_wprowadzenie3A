@@ -9,9 +9,23 @@
     <DockPanel>
         <Button>1</Button>
         <Button DockPanel.Dock="Bottom">2</Button>
+        <Button DockPanel.Dock="Bottom">3</Button>
         <Button DockPanel.Dock="Right">4</Button>
         <Button DockPanel.Dock="Bottom">5</Button>
+        <Button DockPanel.Dock="Top">6</Button>
+        <Button DockPanel.Dock="Left">7</Button>
+        <Button DockPanel.Dock="Top">8</Button>
+        
         <Button>6</Button>
         <Button>7</Button>
+        <!--
+        Zawsze ostatni element zajmuje całe pozostałe miejsce
+        -->
+        <Canvas>
+            <Rectangle Fill="BlueViolet" 
+                       Height="200"
+                       Width="100"
+                       />
+        </Canvas>
     </DockPanel>
 </Window>
