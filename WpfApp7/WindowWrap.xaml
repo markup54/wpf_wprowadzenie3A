@@ -6,7 +6,21 @@
         xmlns:local="clr-namespace:WpfApp7"
         mc:Ignorable="d"
         Title="WindowWrap" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <WrapPanel>
+        <Button>1</Button>
+        <Button>1</Button>
+        <Button>1</Button>
+        <Button>1</Button>
+        <Button>1</Button>
+        <WrapPanel Orientation="Vertical">
+            <Button Padding="10" Margin="20">2</Button>
+            <Button Background="Azure" Foreground="Red">2</Button>
+            <Button>2</Button>
+            <Button>2</Button>
+            <Button>2</Button>
+            <Button>2</Button>
+            <Button>2</Button>
+            <Button>2</Button>
+        </WrapPanel>
+    </WrapPanel>
 </Window>

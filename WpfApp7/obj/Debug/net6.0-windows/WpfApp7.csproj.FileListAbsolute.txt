@@ -25,3 +25,7 @@ C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\Window
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowGrid.baml
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowDoc.g.cs
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowDoc.baml
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowWrap.g.cs
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowWrap.baml
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowKartkowka.g.cs
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowKartkowka.baml

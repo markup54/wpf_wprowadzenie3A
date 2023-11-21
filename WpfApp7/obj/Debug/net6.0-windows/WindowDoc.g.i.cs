@@ -53,7 +53,7 @@ namespace WpfApp7 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApp7;V1.0.0.0;component/windowdoc.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfApp7;component/windowdoc.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WindowDoc.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
