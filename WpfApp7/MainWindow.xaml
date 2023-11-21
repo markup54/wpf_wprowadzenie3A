@@ -5,8 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp7"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+        Title="Wprowadzenie" Height="450" Width="800">
+    <StackPanel>
+        <Button>1</Button>
+        <Button>2</Button>
+        <Button>3</Button>
+        <Button>4</Button>
+        <StackPanel Orientation="Horizontal">
+            <Button>555</Button>
+            <Button>666</Button>
+            <Button>777</Button>
+        </StackPanel>
+    </StackPanel>
 </Window>
