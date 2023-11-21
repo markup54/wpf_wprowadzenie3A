@@ -7,6 +7,9 @@
         mc:Ignorable="d"
         Title="Wprowadzenie" Height="450" Width="800">
     <StackPanel>
+        <!--
+        układ liniowy
+        -->
         <Button>1</Button>
         <Button>2</Button>
         <Button>3</Button>
@@ -17,4 +20,5 @@
             <Button>777</Button>
         </StackPanel>
     </StackPanel>
+    
 </Window>

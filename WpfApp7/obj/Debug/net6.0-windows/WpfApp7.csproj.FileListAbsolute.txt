@@ -19,3 +19,5 @@ C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\refint
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WpfApp7.pdb
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WpfApp7.genruntimeconfig.cache
 C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\ref\WpfApp7.dll
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowUniform.g.cs
+C:\Users\nauczyciel\source\repos\WpfApp7\WpfApp7\obj\Debug\net6.0-windows\WindowUniform.baml
